@@ -17,15 +17,19 @@ It allows you to **add**, **remove**, **edit**, and **display** tasks in the con
    ```bash
    npm install -g typescript
 3. Compile the TypeScript file:
+    ```bash
     npx tsc
     
     This will generate todo.js in the same folder (or dist/ if you set outDir in tsconfig.json).
 
 4. Run the compiled JavaScript:
+    ```bash
     node todo.js
 
 ## Screenshots
 
+## Function Calls
 ![Function Calls](Test.jpg)
 
+## Console logs
 ![Console Result](Result.jpg)
