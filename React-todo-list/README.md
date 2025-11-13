@@ -14,8 +14,8 @@ Users can **add, edit, delete, and mark tasks as completed**. Todos are saved in
 
 ## Screenshots
 
-![Todo List Screenshot 1](./assets/to-do-list-1.png)
-![Todo List Screenshot 2](./assets/to-do-list-2.png)
+![Todo List Screenshot 1](./src/assets/to-do-list-1.png)
+![Todo List Screenshot 2](./src/assets/to-do-list-2.png)
 
 ## Technologies Used
 
