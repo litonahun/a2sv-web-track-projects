@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+
+.box {
+  @apply my-8 p-8 bg-white;
+}
+
+.title {
+  @apply font-extrabold text-slate-800 text-2xl mb-6;
+}
+
+.content {
+  @apply text-slate-700 text-lg;
+}
+
+.list {
+  @apply my-2;
+}
+
